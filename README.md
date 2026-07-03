@@ -55,7 +55,7 @@ npm --version
 ### A-1. リポジトリのクローン
 
 ```bash
-git clone https://github.com/<your-username>/mcp-ubuntu-insights.git
+git clone https://github.com/duelist2021jp/mcp-ubuntu-insights.git
 cd mcp-ubuntu-insights
 ```
 
